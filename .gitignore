@@ -1,0 +1,5 @@
+node_modules/
+typings/
+public/js/app
+public/js/vendor
+.DS_Store
